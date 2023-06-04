@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.div-center {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  border: 2px solid black;
+  position: absolute;
+  left: 45%;
+  top: 45%;
+  color: #8b2c92;
+  text-align: center;
+  padding-top: 2%;
+  box-sizing: border-box;
+}
